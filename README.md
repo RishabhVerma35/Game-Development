@@ -1,3 +1,5 @@
+<img width="641" alt="Screenshot 2024-12-09 192330" src="https://github.com/user-attachments/assets/c7c3ea5a-43ed-4fd1-aca3-e2a8190fd77c" />
+
 # Unity Maze Navigation with ML-Agents
 
 This project involves training a red robot to navigate a 3D maze using Unity and the Unity ML-Agents Toolkit. The robot's goal is to reach a pink robot (reward) while avoiding walls.
